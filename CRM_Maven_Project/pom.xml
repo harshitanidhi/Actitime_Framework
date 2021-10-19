@@ -17,6 +17,8 @@
     <artifactId>selenium-java</artifactId>
     <version>3.141.59</version>
 </dependency>
+</dependencies>
+
 <build>
   <plugins>
       <plugin>
@@ -70,5 +72,5 @@
 
 </profile>
 </profiles>
-  </dependencies>
+
 </project>
