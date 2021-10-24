@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="TestScript.TC_18SelectStatusAsDelieverd"/>
+      <class name="TestScript.TC_16SelectStatusAsApproved"/>
+      <class name="TestScript.TC_19SelectStatusAsCancelled"/>
+      <class name="TestScript.TC_20SelectStatusAsRecieved"/>
+      <class name="TestScript.TC_17SelectStatusAsCreated"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
